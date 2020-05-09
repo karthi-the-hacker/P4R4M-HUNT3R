@@ -9,4 +9,4 @@ Steps to install
 4) rm P4R4M-HUNT3R.zip
 5) cd P4R4M-HUNT3R/
 6) pip3 install -r requirements.txt
-7)./param-hunter.sh
+7) ./param-hunter.sh
